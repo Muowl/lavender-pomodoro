@@ -13,7 +13,8 @@ dist-ssr
 *.local
 
 # Rust / Tauri
-src-tauri/target/
+lavender-pomodoro/src-tauri/target/
+lavender-pomodoro/src-tauri/gen/schemas/
 
 # Editor directories and files
 .vscode/*
